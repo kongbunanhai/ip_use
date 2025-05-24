@@ -39,7 +39,7 @@ let ipUrl = [
 
 ];
 let ipUrlTxt = [
-	atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FtY2x1YnMvYW0tY2YtdHVubmVsL21haW4vaXB2NC50eHQ=')
+	atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2tvbmdidW5hbmhhaS9pcF91c2UvcmVmcy9oZWFkcy9tYWluL2lwSEtfZ29vZC50eHQ=')
 ];
 let ipUrlCsv = [
 	// atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FtY2x1YnMvYW0tY2YtdHVubmVsL21haW4vaXB2NC5jc3Y=')
